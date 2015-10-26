@@ -1,0 +1,7 @@
+Package: com.itzmuffin.ennemonitor
+Name: EnNe Monitor
+Depends: net.angelxwind.appsyncunified
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michele Maffei <enne.monitor@gmail.com>
+Author: Michele Maffei <enne.monitor@gmail.com>
